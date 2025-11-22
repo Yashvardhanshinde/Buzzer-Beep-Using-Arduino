@@ -2,8 +2,7 @@
 
 A simple embedded systems project demonstrating how to generate sound using a buzzer connected to an Arduino board. This project is ideal for beginners learning digital output control and basic timing in embedded programming.
 
-## 📎 GitHub Repository
-https://github.com/Omkarvarote/LED-Blinking-using-Arduino
+
 
 ## 📘 Project Description
 This project uses an Arduino UNO and a piezo buzzer to create a beeping sound at regular intervals. The program alternates between HIGH and LOW signals to the buzzer pin, producing an audible beep.
